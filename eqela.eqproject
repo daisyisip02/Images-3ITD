@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# YEP
+#
+
+projectname: YEP
+vendorid: com.mycompany
+mainmodule: com.mycompany.yep
